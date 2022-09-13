@@ -7,7 +7,7 @@ Fermat: Fermat's little theorem and the Miller-Rabin conditions. Modular arithme
 
 Gene Sequenceing: Two versions of a dynamic programming algorithm. They compute the minimal cost of aligning gene sequences and extracting an optimal alignment. I learned about computational genomics here and understood how knowledge within a particular domain can assist with algorithm design. 
 
-Network Routing: I implemented Dyskstra’s algorithm to find paths through a graph representing a network routing problem. I used two different data structures to represent the priority queue, demonstrating how both the algorithm and data structure can significantly affect performance. 
+Network Routing: I implemented Dijkstra’s algorithm to find paths through a graph representing a network routing problem. I used two different data structures to represent the priority queue, demonstrating how both the algorithm and data structure can significantly affect performance. 
 
 Traveling Sales Person: This is an NP-Complete problem that tries to find the shortest path between a set of locations, visiting each location exactly 1 time. This was a group project, where we implemented three algorithms: greedy, branch and bound, and ant colony. 
 
