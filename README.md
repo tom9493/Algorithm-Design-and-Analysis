@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithm Design and Analysis
 This is a compilation of algorithms I implemented for my algorithms class at BYU. Some of the folders have reports inside detailing the time and space complexity of the algorithms and more detailed descriptions of the projects. This class taught about problems that have unreasonable time and/or space complexities when done through brute force methods and also the algorithms that can overcome those limitations. 
 
 Convex Hull: This algorithm takes a set of dots and is able to draw a line between all the dots necessary to surround the entire set. Solved with a divide and conquer algorithm. 
